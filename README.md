@@ -1,3 +1,3 @@
 # Tribute Page
 
-This is a tribute page for Princess Diana
+This is a tribute page for Elon Musk 
